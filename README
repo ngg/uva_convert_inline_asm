@@ -1,0 +1,2 @@
+Small utility written in python that tries to convert x86 C/C++ code to optimized version with lots of inline assembly code.
+It's working on x86 and x86-64 versions of Linux and Windows.
